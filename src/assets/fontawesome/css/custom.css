@@ -1,0 +1,259 @@
+.fa, .fas, .far, .fal, .fad, .fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fas.fa-pull-left {
+  margin-right: .3em; }
+
+.fas.fa-pull-right{
+  margin-left: .3em; }
+
+.fa-user-circle:before {
+    content: "\f2bd"; }
+
+.fa-key:before {
+  content: "\f084"; }
+
+.fa-keybase:before {
+  content: "\f4f5"; }
+
+.fa-keyboard:before {
+  content: "\f11c"; }
+
+.fa-keycdn:before {
+  content: "\f3ba"; }
+
+.fa-eye:before {
+  content: "\f06e"; }
+
+.fa-eye-dropper:before {
+  content: "\f1fb"; }
+
+.fa-eye-slash:before {
+  content: "\f070"; }
+
+.fa-edit:before {
+  content: "\f044"; }
+
+.fa-trash:before {
+  content: "\f1f8"; }
+
+.fa-trash-alt:before {
+  content: "\f2ed"; }
+
+.fa-trash-restore:before {
+  content: "\f829"; }
+
+.fa-trash-restore-alt:before {
+  content: "\f82a"; }
+
+.fa-female:before {
+  content: "\f182"; }
+  
+.fa-male:before {
+  content: "\f183"; }
+
+.fa-plus:before {
+  content: "\f067"; }
+
+.fa-plus-circle:before {
+  content: "\f055"; }
+
+.fa-plus-square:before {
+  content: "\f0fe"; }
+
+.fa-minus-circle:before {
+  content: "\f056"; }
+
+.fa-minus-square:before {
+  content: "\f146"; }
+
+.fa-thumbs-up:before {
+  content: "\f164"; }
+  
+.fa-thumbs-down:before {
+  content: "\f165"; }
+
+.fa-comment-dots:before {
+  content: "\f4ad"; }
+
+.fa-lock:before {
+  content: "\f023"; }
+
+.fa-lock-open:before {
+  content: "\f3c1"; }
+
+.fa-envelope:before {
+  content: "\f0e0"; }
+
+.fa-envelope-open:before {
+  content: "\f2b6"; }
+
+.fa-envelope-open-text:before {
+  content: "\f658"; }
+
+.fa-envelope-square:before {
+  content: "\f199"; }
+
+.fa-twitter:before {
+  content: "\f099"; }
+
+.fa-twitter-square:before {
+  content: "\f081"; }
+
+.fa-instagram:before {
+  content: "\f16d"; }
+
+.fa-instagram-square:before {
+  content: "\e055"; }
+
+.fa-facebook-f:before {
+  content: "\f39e"; }
+
+.fa-pinterest-p:before {
+  content: "\f231"; }
+
+.fa-user:before {
+  content: "\f007"; }
+
+.fa-phone:before {
+  content: "\f095"; }
+
+.fa-building:before {
+  content: "\f1ad"; }
+
+.fa-window-close:before {
+  content: "\f410"; }
+  
+.fa-sign-out-alt:before {
+  content: "\f2f5"; }
+
+.fa-sign-in-alt:before {
+  content: "\f2f6"; }
+
+.fa-file:before {
+  content: "\f15b"; }
+
+.fa-calendar:before {
+  content: "\f133"; }
+
+.fa-clock:before {
+  content: "\f017"; }
+
+.fa-arrow-up:before {
+  content: "\f062"; }
+
+.fa-arrow-down:before {
+  content: "\f063"; }
+
+.fa-chevron-left:before {
+  content: "\f053"; }
+
+.fa-chevron-right:before {
+  content: "\f054"; }
+
+.fa-shopping-cart:before {
+  content: "\f07a"; }
+
+.fa-bars:before {
+  content: "\f0c9"; }
+  
+.fa-exclamation-triangle:before {
+  content: "\f071"; }
+
+.fa-link:before {
+  content: "\f0c1"; }
+
+.fa-amazon:before {
+  content: "\f270"; }
+
+.fa-superscript:before {
+  content: "\f12b"; }
+
+.fa-map:before {
+  content: "\f279"; }
+
+.fa-th:before {
+  content: "\f00a"; }
+
+.fa-object-ungroup:before {
+  content: "\f248"; }
+
+.fa-bold:before {
+  content: "\f032"; }
+
+.fa-align-justify:before {
+  content: "\f039"; }
+
+.fa-chart-pie:before {
+  content: "\f200"; }
+
+.fa-dollar-sign:before {
+  content: "\f155"; }
+
+.fa-tasks:before {
+  content: "\f0ae"; }
+
+.fa-images:before {
+  content: "\f302"; }
+
+.fa-columns:before {
+  content: "\f0db"; }
+
+.fa-quote-right:before {
+  content: "\f10e"; }
+
+.fa-question-circle:before {
+  content: "\f059"; }
+
+.fa-font:before {
+  content: "\f031"; }
+
+.fa-youtube:before {
+  content: "\f167"; }
+
+.fa-info-circle:before {
+  content: "\f05a"; }
+
+.fa-angle-up:before {
+  content: "\f106"; }
+
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-brands-400.eot");
+  src: url("../webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"), url("../webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
+
+.fab {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-regular-400.eot");
+  src: url("../webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400.woff2") format("woff2"), url("../webfonts/fa-regular-400.woff") format("woff"), url("../webfonts/fa-regular-400.ttf") format("truetype"), url("../webfonts/fa-regular-400.svg#fontawesome") format("svg"); }
+
+.far {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../webfonts/fa-solid-900.eot");
+  src: url("../webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf") format("truetype"), url("../webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
+
+.fa,
+.fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900; }
