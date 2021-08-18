@@ -1,0 +1,27 @@
+@media (min-width: 768px) {
+	.wrapper .cover br {
+	  display: none;
+	}
+	/* Team */
+}
+
+@media (min-width: 992px) {
+  /* Wrapper */
+  .wrapper {
+    padding-top: 0;
+  }
+
+	.wrapper .cover {
+		height: 100vh;
+		padding: 0;
+	}
+
+	/* Team */
+  /* Wrapper end */
+}
+
+@media (min-width: 1200px) {
+	/* Wrapper */
+	/* Team */
+	/*Wrapper end*/
+}
