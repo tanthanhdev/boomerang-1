@@ -2,6 +2,15 @@
 	.wrapper .cover br {
 	  display: none;
 	}
+
+	.about, .portfolio, .services, .alt-services, .team,
+	.clients, .posts, .counters, .image {
+	  background-position: 50%;
+	  background-repeat: no-repeat;
+	  background-color: #fff;
+	  background-size: cover;
+	  padding: 120px 0 100px;
+	}
 	/* Team */
 }
 
