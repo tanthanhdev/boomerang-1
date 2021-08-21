@@ -35,7 +35,7 @@ a:hover {
 }
 
 /* Wrapper */
-.about, .portfolio, .services, .alt-services, .team,
+.about, .portfolio, .services, .alt-services, .team, .testimonials,
 .clients, .posts, .counters, .image {
   background-position: 50%;
   background-repeat: no-repeat;
